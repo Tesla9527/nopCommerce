@@ -1154,6 +1154,9 @@ set @resources='
   <LocaleResource Name="Admin.Vendors.Address">
     <Value>Address (optional)</Value>
   </LocaleResource>
+  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Tokens.ConditionalStatement">
+    <Value>For conditional expressions use the token %if (your conditions ) ... endif%</Value>
+  </LocaleResource>
 </Language>
 '
 
